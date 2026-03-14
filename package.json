@@ -1,0 +1,10 @@
+{
+  "name": "distributed-job-queue",
+  "private": true,
+  "workspaces": [
+    "shared",
+    "api",
+    "worker",
+    "ui"
+  ]
+}
